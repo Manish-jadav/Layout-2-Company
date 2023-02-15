@@ -50,3 +50,29 @@
     text-align:justify;
     padding:40px;   
 }
+.box{
+    border: 2px solid red;
+    height: 200px;
+    width: 100%;
+}
+.logo{
+    border: 2px rgb(95, 148, 148);
+    border-radius: 4px;
+    height: 100px;
+    width: 100px;
+    box-shadow: inset 10px 10px 5px rgb(52, 72, 72);
+    background-color: rgb(95, 148, 148);
+    top: 50px;
+    left: 50px;
+    position: relative;
+    align-items: center;   
+}
+.com_name
+{
+    font-size: 50px;
+    padding-top: 75px;
+
+}
+.bold{
+    color: red;
+}
