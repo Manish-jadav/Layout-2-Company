@@ -20,6 +20,33 @@
     padding-top: 30px;
 }
 .about_us{
+    border: 2px solid rgb(69, 130, 130);
+    background-color: rgb(69, 130, 130);
+    color: white;
+    height: 250px;
+    text-align: center;
+}
+.contact_us{
     border: 2px solid red;
+    background-color: red;
+    height: 250px;
+    color: white;
+}
+.b_link{
+    border: 2px solid rgb(151, 206, 206);
+    background-color: rgb(151, 206, 206);
+    height: 250px;
+    text-align: center;
+    padding:25%;   
+}
+.s_h2{
+    font-size: 30px;
+    padding-top: 25px;
+    text-align: center;
+    
 }
     
+.text{
+    text-align:justify;
+    padding:40px;   
+}
